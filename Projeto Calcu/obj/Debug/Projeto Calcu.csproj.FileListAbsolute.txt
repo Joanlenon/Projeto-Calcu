@@ -1,0 +1,14 @@
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\bin\Debug\Projeto Calcu.exe.config
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\bin\Debug\Projeto Calcu.exe
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\bin\Debug\Projeto Calcu.pdb
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.csproj.AssemblyReference.cache
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.csproj.SuggestedBindingRedirects.cache
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto_Calcu.Calculadora.resources
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto_Calcu.Central.resources
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto_Calcu.ImparPares.resources
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto_Calcu.Properties.Resources.resources
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.csproj.GenerateResource.cache
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.csproj.CoreCompileInputs.cache
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.exe
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto Calcu.pdb
+C:\Users\joan.ldbarbosa\source\repos\Projeto Calcu\Projeto Calcu\obj\Debug\Projeto_Calcu.Aritimetico.resources
